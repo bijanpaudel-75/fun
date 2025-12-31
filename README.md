@@ -1,4 +1,2 @@
 # fun
-This repo is just made for fun.
-<br>
-This repo has nothing useful things.
+This is a game portal where I will put all of my created games 
